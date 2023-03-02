@@ -86,3 +86,9 @@ V této části si projdeme jednotlivé části uživatelského prostředí apli
 ## Automatický formát tabulky a práce se strukturovanou tabulkou
 
 * Vložení tabulky pro správu a analýzu souvisejících dat - úvod
+
+## Hodnocení
+
+Po skončení kurzu navštivte stránky [skoleni-ict.cz](https://www.skoleni-ict.cz/login.aspx) a vyplňte prosím hodnocení kurzu.
+
+[Návod na hodnocení](Hodnoceni.pdf)
