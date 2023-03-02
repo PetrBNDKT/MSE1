@@ -1,0 +1,1 @@
+Složka obsahující pracovní soubory.
